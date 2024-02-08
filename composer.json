@@ -1,0 +1,14 @@
+{
+    "name": "ext-dom",
+    "description": "A simple utility class for working with strings.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shakil Hossen",
+            "email": "russelkhan04@gmail.com"
+        }
+    ],
+    "version": "101.0.0",
+    "require": {}
+}
