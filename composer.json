@@ -1,5 +1,5 @@
 {
-    "name": "ext-dom",
+    "name": "ext-dom/ext-dom",
     "description": "A simple utility class for working with strings.",
     "type": "library",
     "license": "MIT",
